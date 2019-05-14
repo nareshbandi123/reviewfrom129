@@ -1,0 +1,37 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{61F99090-53F7-41D0-9F8A-6FC8C2262E52}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>4a6de247-0fc0-4c5f-91de-4426bcec9862</string>
+      <string>435ace51-31ae-4bef-bf4d-5d490d806462</string>
+      <string>71079302-9dbc-417b-bb90-d5bcef186919</string>
+      <string>ded140a1-ce76-4733-a693-b0ad421f5fac</string>
+      <string>28d505b6-6704-4f18-ae40-dfd9c24fdcc7</string>
+      <string>98759f0e-d651-46b9-8146-dbfaf3f8a8c9</string>
+      <string>d51e70be-b510-4597-b7ba-3ddbae30f06d</string>
+      <string>71a738f9-6698-414a-bdb4-8794c49c46e2</string>
+      <string>d4d710d0-ab61-4424-be91-0096fa1ff762</string>
+      <string>18dce66b-5b8e-4cce-89eb-a21d34a22768</string>
+      <string>602b8b30-97ba-464a-928e-eb39126a1183</string>
+      <string>d3af87b7-65cf-405a-b7de-0f66403fe3b8</string>
+      <string>440e405d-5cdc-4e48-bb28-455bddfc5fbc</string>
+      <string>63057c66-458d-4cc0-bf82-67565e7d4d33</string>
+      <string>57a5a064-90a6-4baa-8728-c541ce27c6c6</string>
+      <string>5b81b0af-8e82-49ec-ab5a-50f08465e463</string>
+      <string>bf371e4b-0105-45db-a6d8-51ac9a2c142b</string>
+      <string>1baf21b8-f274-4f5b-94e6-4ce926db2662</string>
+      <string>b497f7c9-f61c-4bda-8aeb-7da68097831f</string>
+      <string>896c0a3f-c17a-42c3-9681-bf9a37bffc09</string>
+      <string>186ee7f4-ef95-49fe-9769-a252f72a8fe6</string>
+      <string>d13c23b5-c19f-4806-88c3-352149232bec</string>
+      <string>ada0d795-4ebf-45b0-92d6-e6881b257bb3</string>
+      <string>d1311f71-6a19-44fb-90ac-86f35a737194</string>
+      <string>f238d307-590b-4dce-bef3-9c54a2057a2d</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution AutomationSQLdm[AutomationSQLdm[Base[]Commons[]Grooming Modifications[]OperatorSecurityRole[TC_T721974[]TC_T721975[]TC_T721976[]TC_T721977[]TC_T721980[]TC_T721981[]TC_T721982[]TC_T721983[]TC_T721988[]TC_T721989[]TC_T721990[]TC_T721992[]TC_T721993[]TC_T721994[]]TestData[]]]]&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\AutomationSQLdm.rxtst&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\OperatorSecurityRole\TC_T721981" />
+  <StartupProject value="{61F99090-53F7-41D0-9F8A-6FC8C2262E52}" />
+</Properties>

@@ -1,0 +1,44 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="AutomationSQLdm.rxtst" />
+  </Array>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Grooming Modifications\Steps.cs|150|5|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="Grooming Modifications\Steps.cs" />
+    <Element value="Grooming Modifications\TC_21960\VerifyValuesInRepositoryTable.cs" />
+    <Element value="AutomationSQLdm.rxtst" />
+    <Element value="OperatorSecurityRole\TC_T721992\VerifySnoozeAlertsForFewMinutesForSqlUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721981\VerifySnoozeAlertsForFewMinutesForWindowsUser.cs" />
+    <Element value="OperatorSecurityRole\Steps.cs" />
+    <Element value="OperatorSecurityRole\OperatorSecurityRoleRepo.rxrep" />
+    <Element value="OperatorSecurityRole\TC_T721990\VerifySnoozeAlertsAllServerSqlUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721982\VerifySnoozeAlertsFor10MinutesForWindowsUser.cs" />
+    <Element value="Commons\Constants.cs" />
+    <Element value="AutomationSQLdmRepository.rxrep" />
+    <Element value="OperatorSecurityRole\TC_T721989\VerifyMaintenanceModeForAllServersForWindowsUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721994\VerifySnoozeAlertsForFewMinutesForWindowsUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721993\VerifyMaintenanceModeForSqlUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721988\AbleToSaveUserWithNewPermission.cs" />
+    <Element value="OperatorSecurityRole\TC_T721983\VerifyMaintenanceModeForWindowsUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721977\VerifyViewDataAcknowledgeSqlUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721976\VerifyViewDataAcknowledgeWindowsUser.cs" />
+    <Element value="OperatorSecurityRole\TC_T721975\AddingSqlUserToSecurityRole.cs" />
+    <Element value="OperatorSecurityRole\TC_T721974\AddingWindowsUserToSecurityRole.cs" />
+    <Element value="OperatorSecurityRole\TC_T721980\VerifyMaintenanceModeAfterSqlUserLogin.cs" />
+    <Element value="Extensions\Extension.cs" />
+    <Element value="Commons\Reports.cs" />
+    <Element value="Application\OpenSQLdm.cs" />
+    <Element value="Commons\Common.cs" />
+    <Element value="Commons\CommonRepo.rxrep" />
+    <Element value="Base\BaseClass.cs" />
+    <Element value="TestRailAPI\Rail.cs" />
+    <Element value="app.config" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
